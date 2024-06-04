@@ -22,7 +22,8 @@
 
 .navbar_Logo {
     display: flex;
-    height: 1rem;
+    height: 3rem;
+    width: 3rem;
 }
 
 .navbar_Items {
@@ -30,4 +31,10 @@
     width: 50%;
     align-items: center;
     justify-content: space-between;
+}
+
+@media only screen and (max-width: 600px) {
+    .navbar_Items {
+        display: none;
+    }
 }

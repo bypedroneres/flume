@@ -6,7 +6,7 @@ function Navbar() {
     <div className='navbar'>
       <div className='navbar_Content'>
         <div className='navbar_Logo'>
-
+          <img src="images/logo/logo.png" alt="Cris"/>
         </div>
         <div className='navbar_Items'>
             <p>Home</p>
