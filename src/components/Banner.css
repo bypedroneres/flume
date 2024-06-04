@@ -1,0 +1,41 @@
+.banner {
+    background-color: #111;
+    color: #FEFEFE;
+}
+
+.banner_Content {
+    display: flex;
+}
+
+.banner_Left {
+    width: 50%;
+    height: 100vh;
+    padding: 1rem;
+}
+
+.banner_Copy {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner_Text {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner_Text > h1 {
+    font-weight: 300;
+}
+
+.banner_Info {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner_Right {
+    width: 50%;
+    background-color: #FEFEFE;
+}

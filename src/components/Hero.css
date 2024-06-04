@@ -14,13 +14,13 @@
 
 .hero > h1 {
     font-weight: 300;
-    font-size: 4rem;
-    width: 80%;
+    font-size: 3rem;
+    width: 90%;
     text-align: center;
 }
 
 .hero > p {
     font-weight: 200;
-    width: 80%;
+    width: 90%;
     text-align: center;
 }
