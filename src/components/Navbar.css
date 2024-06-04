@@ -1,0 +1,33 @@
+.navbar {
+    background-color: rgba(17, 17, 17, 0.279);
+    display: flex;
+    position: fixed;
+    width: 100%;
+    flex-direction: row;
+    color: #FEFEFE;
+    font-weight: 300;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(20px);
+    width: 100%;
+}
+
+.navbar_Content {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+.navbar_Logo {
+    display: flex;
+    height: 1rem;
+}
+
+.navbar_Items {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,26 @@
+.hero {
+    background-color: #111;
+    background-image: url('/public/images/background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #FEFEFE;
+}
+
+.hero > h1 {
+    font-weight: 300;
+    font-size: 4rem;
+    width: 80%;
+    text-align: center;
+}
+
+.hero > p {
+    font-weight: 200;
+    width: 80%;
+    text-align: center;
+}
