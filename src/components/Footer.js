@@ -8,7 +8,7 @@ function Footer() {
             <div className='footer_Info'>
                 <div className='footer_Name'>
                 <img src="images/logo/logo_red.png" alt="logo red"/>
-                    <p>A flume é uma empresa muito massa de trabalhar</p>
+                    <p>A Flume é uma empresa de publicidade e growth hacking, que tem como propósito ascender as marcas dos nossos clientes.</p>
                 </div>
                 <div className='footer_Support'>
                   <h4>SUPORTE</h4>
@@ -23,7 +23,7 @@ function Footer() {
             <div className='footer_Social'>
               <div className='footer_Icons'>
               <h4>REDES SOCIAS</h4>
-              <a href="https://www.instagram.com/athletezero.us/">
+              <a href="https://www.instagram.com/flumestudiobr">
               <svg width="20px" height="20px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path fill-rule="evenodd" clip-rule="evenodd" d="M12 18C15.3137 18 18 15.3137 18 12C18 8.68629 15.3137 6 12 6C8.68629 6 6 8.68629 6 12C6 15.3137 8.68629 18 12 18ZM12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16Z" fill="#FEFEFE"/>
               <path d="M18 5C17.4477 5 17 5.44772 17 6C17 6.55228 17.4477 7 18 7C18.5523 7 19 6.55228 19 6C19 5.44772 18.5523 5 18 5Z" fill="#FEFEFE"/>
