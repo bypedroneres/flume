@@ -6,22 +6,16 @@ function Clients() {
     <div className='clients'>
         <div className='clients_Content'>
             <div className='client'>
-                Pedrin
+                <img src="images/brands/image 1.png" alt="Cris"/>
             </div>
             <div className='client'>
-                Pedrin
+                <img src="images/brands/image 5.png" alt="Cris"/>
             </div>
             <div className='client'>
-                Pedrin
+                <img src="images/brands/image 3.png" alt="Cris"/>
             </div>
             <div className='client'>
-                Pedrin
-            </div>
-            <div className='client'>
-                Pedrin
-            </div>
-            <div className='client'>
-                Pedrin
+                <img src="images/brands/image 4.png" alt="Cris"/>
             </div>
         </div>
     </div>

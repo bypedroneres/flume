@@ -5,6 +5,8 @@ import Hero from './components/Hero';
 import Clients from './components/Clients';
 import Banner from './components/Banner';
 import Testimonials from './components/Testimonials';
+import FAQ from './components/FAQ';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <Clients/>
       <Banner/>
       <Testimonials/>
+      <FAQ/>
+      <Footer/>
     </div>
   );
 }
