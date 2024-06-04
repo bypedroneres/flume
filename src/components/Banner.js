@@ -17,7 +17,6 @@ function Banner() {
                 </div>
             </div>
             <div className='banner_Right'>
-                test
             </div>
         </div>
       

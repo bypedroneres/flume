@@ -17,7 +17,7 @@ function Testimonials() {
                     </div>
                     <div className='card_Info'>
                         <div className='card_Pic'>
-
+                        <img src="images/clients/paulo.png" alt="Cris"/>
                         </div>
                         <div className='card_Name'>
                             <h4>Paulo Roberto</h4>
@@ -31,9 +31,9 @@ function Testimonials() {
                         <p>Nosso desafio era comunicar efetivamente com nosso público financeiro, mantendo nossa identidade e buscando inovação e a Flume nos surpreendeu com o ótimo trabalho desenvolvido em todas as etapas, desde o redesign do site até a comunicação com os clientes, eles entregaram qualidade e inovação.  Com o trabalho de estratégia de marca, marketing digital e funil de vendas, encontramos uma parceria sólida que impulsionou nossa marca para novos horizontes, sem perder nossa essência.</p>
                     </div>
                     <div className='card_Info'>
-                        <div className='card_Pic'>
-
-                        </div>
+                    <div class="card_Pic">
+                        <img src="images/clients/nakamura.png" alt="Cris"/>
+                    </div>
                         <div className='card_Name'>
                             <h4>Christopher Nakamura</h4>
                             <h5>Diretor. Finance X Capital</h5>
@@ -47,7 +47,7 @@ function Testimonials() {
                     </div>
                     <div className='card_Info'>
                         <div className='card_Pic'>
-
+                            <img src="images/clients/cris.png" alt="Cris"/>
                         </div>
                         <div className='card_Name'>
                             <h4>Cristhian Rico</h4>

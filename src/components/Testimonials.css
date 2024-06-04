@@ -46,12 +46,11 @@
     align-items: center;
 }
 
-.card_Pic {
+.card_Pic > img{
     height: 3rem;
     border-radius: 2rem;
     width: 3rem;
     display: flex;
-    background-color: #FEFEFE;
 }
 
 .card_Name {

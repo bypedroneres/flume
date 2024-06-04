@@ -37,5 +37,9 @@
 
 .banner_Right {
     width: 50%;
-    background-color: #FEFEFE;
+    background-image: url('/public/images/banner_background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
