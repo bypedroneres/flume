@@ -5,10 +5,13 @@
 
 .banner_Content {
     display: flex;
+    padding: 2rem;
+    background-color: #111;
 }
 
 .banner_Left {
     width: 50%;
+    background-color: #FEFEFE;
     padding: 2rem;
     height: 80vh;
 }
@@ -39,6 +42,7 @@
 .banner_Right {
     width: 50%;
     padding: 2rem;
+    background-color: #FEFEFE;
     display: flex;
     align-items: center;
     justify-content: center;
