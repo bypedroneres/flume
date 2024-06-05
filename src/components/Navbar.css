@@ -9,6 +9,7 @@
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(20px);
     width: 100%;
+    z-index: 100;
 }
 
 .navbar_Content {

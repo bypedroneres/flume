@@ -12,7 +12,7 @@ function Footer() {
                 </div>
                 <div className='footer_Support'>
                   <h4>SUPORTE</h4>
-                  <p><a href="mailto:suporte@flume">suporte@flume.com</a></p>
+                  <p><a href="mailto:diretoria@flumebrazil.com">diretoria@flumebrazil.com</a></p>
                 </div>
                 <div className='footer_Legal'>
                 <h4>LEGAL</h4>
