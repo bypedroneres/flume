@@ -17,6 +17,9 @@ function Banner() {
                 </div>
             </div>
             <div className='banner_Right'>
+                <div className='banner_Image'>
+                </div>
+                
             </div>
         </div>
       

@@ -1,6 +1,6 @@
 .banner {
-    background-color: #111;
-    color: #FEFEFE;
+    background-color: #FEFEFE;
+    color: #111;
 }
 
 .banner_Content {
@@ -9,15 +9,14 @@
 
 .banner_Left {
     width: 50%;
-    height: 100vh;
-    padding: 1rem;
+    height: 70vh;
+    padding: 4rem;
 }
 
 .banner_Copy {
     display: flex;
     flex-direction: column;
     height: 100%;
-    align-items: center;
     justify-content: space-between;
 }
 
@@ -28,6 +27,8 @@
 
 .banner_Text > h1 {
     font-weight: 300;
+    font-size: 4rem;
+    width: 400px;
 }
 
 .banner_Info {
@@ -37,6 +38,15 @@
 
 .banner_Right {
     width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner_Image {
+    display: flex;
+    height: 85%;
+    width: 80%;
     background-image: url('/public/images/banner_background.jpg');
     background-size: cover;
     background-position: center;
