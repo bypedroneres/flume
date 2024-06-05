@@ -1,13 +1,13 @@
 .navbar {
     background-color: rgba(17, 17, 17, 0.279);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(20px);
     display: flex;
     position: fixed;
     width: 100%;
     flex-direction: row;
     color: #FEFEFE;
     font-weight: 300;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(20px);
     width: 100%;
     z-index: 100;
 }
