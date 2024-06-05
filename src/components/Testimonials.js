@@ -17,7 +17,7 @@ function Testimonials() {
                     </div>
                     <div className='card_Info'>
                         <div className='card_Pic'>
-                        <img src="images/clients/paulo.png" alt="Cris"/>
+                        <img src="images/clients/paulo.png" alt="paulo"/>
                         </div>
                         <div className='card_Name'>
                             <h4>Paulo Roberto</h4>
