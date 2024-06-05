@@ -27,6 +27,7 @@
 .cards {
     display: flex;
     margin-top: 4rem;
+    gap: 2rem;
     width: 100%;
     justify-content: space-around;
 }
@@ -38,7 +39,12 @@
     padding: 1rem;
     flex-direction: column;
     border-radius: 1rem;
-    width: 300px;
+    width: 100%;
+}
+
+.card_Text  > p {
+    font-weight: 200;
+    font-size: 0.8rem;
 }
 
 .card_Info {
@@ -59,10 +65,13 @@
 
 .card_Name > h4 {
     line-height: 0rem;
+    font-weight: 500;
 }
 
 .card_Name > h5 {
     line-height: 0rem;
+    font-weight: 400;
+    font-size: 0.8rem;
 }
 
 @media only screen and (max-width: 600px) {

@@ -5,13 +5,21 @@
 
 .clients_Content {
     padding: 1rem;
+    gap: 3rem;
     display: flex;
     overflow-x: auto;
     justify-content: space-between;
 }
 
 .client > img{
-    height: 3rem;
+    height: 10rem;
+
+    filter: grayscale(1);
+}
+
+.client > img:hover{
+    filter: grayscale(0);
+    cursor: pointer;
 }
 
 .clients_Content::-webkit-scrollbar {
