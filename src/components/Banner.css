@@ -9,8 +9,8 @@
 
 .banner_Left {
     width: 50%;
-    height: 70vh;
     padding: 4rem;
+    height: 70vh;
 }
 
 .banner_Copy {
@@ -27,8 +27,8 @@
 
 .banner_Text > h1 {
     font-weight: 300;
-    font-size: 4rem;
-    width: 400px;
+    font-size: 3rem;
+    width: 70%;
 }
 
 .banner_Info {
@@ -38,6 +38,7 @@
 
 .banner_Right {
     width: 50%;
+    padding: 4rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -45,8 +46,8 @@
 
 .banner_Image {
     display: flex;
-    height: 85%;
-    width: 80%;
+    height: 80%;
+    width: 100%;
     background-image: url('/public/images/banner_background.jpg');
     background-size: cover;
     background-position: center;
